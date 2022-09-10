@@ -1,1 +1,1 @@
-export { default as SwapChart } from './Home'
+export { default as Home } from './Home'
